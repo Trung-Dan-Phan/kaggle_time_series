@@ -16,3 +16,5 @@ tqdm
 typer
 holidays
 meteostat
+vacances-scolaires-france
+jours-feries-france
